@@ -1,4 +1,5 @@
  life-cycle:
+ 
  Git workflow  implemented. The code  containerized with the help of the Docker and deployed application on  Kubernetes cluster .Above task defined 
  in jenkinsfile.The  Code containerized  from Docker hub  deployed with 2 replicas. Created a NodePort service and configured the same for port 30008.
  
